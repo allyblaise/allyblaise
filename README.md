@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm SHEMA Ally Blaise from Kigali - Rwanda<br><br>- 🔭 I'm a Husband, Dad, and Software engineer. Founder & CEO at Qonics Inc<br>- 📚 I'm currently learning embedded systems<br>- ⚡ In my free time I do woodworking and play FIFA</p>
+<p align="left">I'm SHEMA Ally Blaise from US - Nashville, TN<br><br>- 🔭 I'm a Husband, Dad, and Software engineer. Founder & CEO at Qonics Inc<br>- 📚 I'm currently learning embedded systems<br>- ⚡ In my free time I do woodworking and play FIFA</p>
 
 ###
 
